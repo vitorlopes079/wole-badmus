@@ -38,7 +38,7 @@ export default function Page2() {
 
       {/* Main Content - Single Card */}
       <main className="max-w-[1600px] mx-auto px-4 py-4 md:py-6 relative z-10">
-        <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 border border-slate-100 p-5 md:p-8">
+        <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 border border-slate-100 p-5 md:p-12">
 
           {/* Hero Section with Money Leak below title, Photo on right */}
           <section className="pb-6 border-b border-slate-100">
@@ -94,8 +94,8 @@ export default function Page2() {
                   <Image
                     src="/placeholder.png"
                     alt="Wole Badmus"
-                    width={380}
-                    height={380}
+                    width={280}
+                    height={420}
                     className="relative rounded-2xl"
                     priority
                   />
