@@ -42,7 +42,9 @@ export default function Home() {
               <div className="flex-1 order-1">
                 {/* Name & Title */}
                 <p className="text-teal-600 text-sm font-medium tracking-wider uppercase mb-1">Industrial Strategist</p>
-                <h1 className="text-4xl md:text-5xl font-bold text-slate-900 leading-none mb-1">Wole Badmus</h1>
+                <h1 className="font-[var(--font-libre-bodoni)] text-5xl md:text-[105px] leading-[0.9] tracking-tight text-black mb-3">
+  Wole Badmus
+</h1>
                 <p className="text-base text-slate-500 mb-5">Industrial Capacity & Performance Strategist</p>
 
                 <p className="mt-4 mb-10 text-sm text-slate-500 max-w-xl">
