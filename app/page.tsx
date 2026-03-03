@@ -97,25 +97,6 @@ export default function Home() {
 
                   <p className="text-teal-700 font-semibold">This is the money leak.</p>
 
-                  <p className="font-medium text-slate-700">Globally:</p>
-
-                  <ul className="space-y-2">
-                    <li className="flex gap-2"><span className="text-teal-400 shrink-0">*</span><span>Unplanned downtime consumes <strong className="text-slate-900">5–20%</strong> of productive capacity annually.</span></li>
-                    <li className="flex gap-2"><span className="text-teal-400 shrink-0">*</span><span>Maintenance represents <strong className="text-slate-900">15–40%</strong> of operating cost in asset-intensive industries.</span></li>
-                    <li className="flex gap-2"><span className="text-teal-400 shrink-0">*</span><span>Reactive maintenance can cost <strong className="text-slate-900">3–5 times more</strong> than planned intervention when lost production is factored in.</span></li>
-                  </ul>
-
-                  <p>In environments where capital approval cycles are slow, FX volatility impacts spare procurement, and aging assets dominate — such as many manufacturing sites across West Africa — the impact compounds.</p>
-
-                  <p className="text-slate-900 font-medium">But the deeper issue is not maintenance effort. It is structural misalignment.</p>
-
-                  <ul className="space-y-1">
-                    <li className="flex gap-2"><span className="text-teal-400 shrink-0">*</span><span>PM programs disconnected from component behavior</span></li>
-                    <li className="flex gap-2"><span className="text-teal-400 shrink-0">*</span><span>Downtime data lacking diagnostic clarity</span></li>
-                    <li className="flex gap-2"><span className="text-teal-400 shrink-0">*</span><span>Spare strategy not tied to risk ranking</span></li>
-                    <li className="flex gap-2"><span className="text-teal-400 shrink-0">*</span><span>Equipment constraints masked as operational variability</span></li>
-                    <li className="flex gap-2"><span className="text-teal-400 shrink-0">*</span><span>Capital decisions made before existing capacity is fully recovered</span></li>
-                  </ul>
                 </div>
               </div>
             </div>
